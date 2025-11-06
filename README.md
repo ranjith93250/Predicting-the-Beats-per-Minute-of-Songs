@@ -7,7 +7,7 @@
 ![Score](https://img.shields.io/badge/Best%20Score-26.38768-00D9FF?style=for-the-badge)  
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python)
 
-### ⚡ **TOP 48.3% IN OUR FIRST COMPETITION!** ⚡ 
+### ⚡ **TOP 48.3% IN OUR FIRST COMPETITION!** ⚡   
 
 > *"We didn't just participate—we DOMINATED our debut!"*
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🔥 TEAM PHOENIX ALGORITHMS - THE ORIGIN STORY
+## 🔥 TEAM PHOENIX ALGORITHMS - THE ORIGIN STORY   
 
 Four data science warriors entered their first battlefield. Armed with Python, fueled by coffee, and driven by an insatiable hunger to win—**we rose from the ashes and made our mark!**
 
